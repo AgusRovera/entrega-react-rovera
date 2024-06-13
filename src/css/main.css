@@ -23,6 +23,7 @@
     font-weight: 500;
 }
 
+
 .nav-menu{
     display: flex;
     list-style-type: none; 
@@ -35,7 +36,38 @@
     color: #ffffff;
 }
 
+.nav-link.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 .ItemList{
     text-align: center;
     padding: 10ch;
+}
+
+.Item-list-container{
+    max-width: 1000px;
+    margin: 0 auto;
+
+}
+
+.Modelos-grilla{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+}
+
+.producto{
+    background-color: #00184F;
+    border-radius: .5rem;
+    padding: 1rem;
+}
+
+.color-de-h2{
+    color: #ffffff;
+}
+
+.color-de-texto{
+    color: darkgrey;
 }

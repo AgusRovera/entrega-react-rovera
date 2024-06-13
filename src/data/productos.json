@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "nombre": "Volkswagen Polo",
+        "precio": 23000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "El auto que todo amante de Volkswagen quiere tener."
+    },
+    {
+        "id": 2,
+        "nombre": "Volkswagen Vento",
+        "precio": 27500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Sedan de lujo, con una de las mejores prestaciones de la marca."
+    },
+    {
+        "id": 3,
+        "nombre": "Volkswagen Virtus",
+        "precio": 19000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Automovil con potente rendimiento y diseño elegante, ideal para trabajar o pasear."
+    },
+    {
+        "id": 4,
+        "nombre": "Volkswagen Taos",
+        "precio": 32000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Llego la nueva SUV de la marca, ideal para el uso en ciudad."
+        },
+    {
+        "id": 5,
+        "nombre": "Volkswagen T-Cross",
+        "precio": 37900,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Para los viajes de camping o a la playa llego la T-Cross, una SUV confiable y moderna."
+    },
+    {
+        "id": 6,
+        "nombre": "Volkswagen Nivus",
+        "precio": 39000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Una SUV urbana con potencia y versatilidad."
+    },
+    {
+        "id": 7,
+        "nombre": "Volkswagen Amarok",
+        "precio": 42500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Ya sea en ripio, en asfalto, en arena, barro o nieve, Amarok tiene para ofrecerte más potencia que nunca, con una estabilidad dinámica que la distingue del resto y una tecnología lista para ser tu soporte ideal en todas las condiciones."
+        
+    },
+    {
+        "id": 8,
+        "nombre": "Volkswagen Amarok High Line",
+        "precio": 45000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Ya sea en ripio, en asfalto, en arena, barro o nieve, Amarok tiene para ofrecerte más potencia que nunca, con una estabilidad dinámica que la distingue del resto y una tecnología lista para ser tu soporte ideal en todas las condiciones.."
+    },
+    {
+        "id": 9,
+        "nombre": "Volkswagen Amarok V6",
+        "precio": 50000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Ya sea en ripio, en asfalto, en arena, barro o nieve, Amarok tiene para ofrecerte más potencia que nunca, con una estabilidad dinámica que la distingue del resto y una tecnología lista para ser tu soporte ideal en todas las condiciones."
+    }
+]
