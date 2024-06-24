@@ -1,0 +1,14 @@
+[
+    {
+        "id": "modelos-sedan",
+        "nombre": "Sedan"
+    },
+    {
+        "id": "modelos-suv",
+        "nombre": "Suv"
+    },
+    {
+        "id": "modelos-pick-up",
+        "nombre": "Pick-up"
+    }
+]

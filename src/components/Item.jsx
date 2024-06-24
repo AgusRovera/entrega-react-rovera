@@ -1,16 +1,14 @@
-import React from "react";
+import React from 'react'
+import { Link } from 'react-router-dom'
 
-const Item = ( {producto} ) => {
-
+export const Item = ( {producto} ) => {
     return (
     <div className="producto">
         <img src={producto.imagen} />
-        <h2 className="color-de-h2">{producto.nombre}</h2>
-        <p className="color-de-texto">${producto.precio}</p>
-        <p className="color-de-texto">{producto.descripcion}</p>
-
+        <h2>{producto.nombre}</h2>
+        <p>${producto.precio}</p>
+        <p>{producto.descripcion}</p>
+        <Link to={`/item/${producto.id}`}>Ver más</Link>
     </div>
     )
-};
-
-export default Item;
+}
