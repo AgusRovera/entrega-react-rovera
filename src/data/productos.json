@@ -3,7 +3,7 @@
         "id": 1,
         "nombre": "Volkswagen Polo",
         "precio": 23000,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/polo.png",
         "descripcion": "El auto que todo amante de Volkswagen quiere tener.",
         "categoria": {
             "id": "modelos-sedan",
@@ -14,7 +14,7 @@
         "id": 2,
         "nombre": "Volkswagen Vento",
         "precio": 27500,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/vento.png",
         "descripcion": "Sedan de lujo, con una de las mejores prestaciones de la marca.",
         "categoria": {
             "id": "modelos-sedan",
@@ -25,7 +25,7 @@
         "id": 3,
         "nombre": "Volkswagen Virtus",
         "precio": 19000,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/virtus.png",
         "descripcion": "Automovil con potente rendimiento y diseño elegante, ideal para trabajar o pasear.",
         "categoria": {
             "id": "modelos-sedan",
@@ -36,7 +36,7 @@
         "id": 4,
         "nombre": "Volkswagen Taos",
         "precio": 32000,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/taos.png",
         "descripcion": "Llego la nueva SUV de la marca, ideal para el uso en ciudad.",
         "categoria": {
             "id": "modelos-suv",
@@ -47,7 +47,7 @@
         "id": 5,
         "nombre": "Volkswagen T-Cross",
         "precio": 37900,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/t-cross.png",
         "descripcion": "Para los viajes de camping o a la playa llego la T-Cross, una SUV confiable y moderna.",
         "categoria": {
             "id": "modelos-suv",
@@ -58,7 +58,7 @@
         "id": 6,
         "nombre": "Volkswagen Nivus",
         "precio": 39000,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/nivus.png",
         "descripcion": "Una SUV urbana con potencia y versatilidad.",
         "categoria": {
             "id": "modelos-suv",
@@ -69,7 +69,7 @@
         "id": 7,
         "nombre": "Volkswagen Amarok",
         "precio": 42500,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/amarok.png",
         "descripcion": "Ya sea en ripio, en asfalto, en arena, barro o nieve, Amarok tiene para ofrecerte más potencia que nunca, con una estabilidad dinámica que la distingue del resto y una tecnología lista para ser tu soporte ideal en todas las condiciones.",
         "categoria": {
             "id": "modelos-pick-up",
@@ -81,7 +81,7 @@
         "id": 8,
         "nombre": "Volkswagen Amarok High Line",
         "precio": 45000,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/amarok high line.png",
         "descripcion": "Ya sea en ripio, en asfalto, en arena, barro o nieve, Amarok tiene para ofrecerte más potencia que nunca, con una estabilidad dinámica que la distingue del resto y una tecnología lista para ser tu soporte ideal en todas las condiciones..",
         "categoria": {
             "id": "modelos-pick-up",
@@ -92,7 +92,7 @@
         "id": 9,
         "nombre": "Volkswagen Amarok V6",
         "precio": 50000,
-        "imagen": "https://placeholder.pics/svg/150",
+        "imagen": "../../img/amarok-version-V6-Extreme-.png",
         "descripcion": "Ya sea en ripio, en asfalto, en arena, barro o nieve, Amarok tiene para ofrecerte más potencia que nunca, con una estabilidad dinámica que la distingue del resto y una tecnología lista para ser tu soporte ideal en todas las condiciones.",
         "categoria": {
             "id": "modelos-pick-up",

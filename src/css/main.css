@@ -59,9 +59,14 @@
 }
 
 .producto{
-    background-color: #00184F;
+    background-color: #002a8d;
     border-radius: .5rem;
     padding: 1rem;
+}
+
+.imagen{
+    width: 280px;
+    height: 150px;
 }
 
 .color-de-h2{
@@ -69,5 +74,43 @@
 }
 
 .color-de-texto{
-    color: darkgrey;
+    color: rgb(255, 255, 255);
+}
+
+footer div {
+    background-color: #00184F;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 10px;
+}
+
+.redes {
+    text-align: right;
+}
+
+.redes p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.verde {
+    color: green;
+}
+
+.rojo {
+    color: red;
+}
+
+.bg-blanco {
+    background-color: white;
+}
+
+.bg-gris {
+    background-color: gray;
 }

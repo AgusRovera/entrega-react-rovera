@@ -8,7 +8,7 @@ export const ItemList = ( {productos} ) => {
             productos.map(producto => {
             return <Item key={producto.id} producto={producto} />
             })
-            : <p>Cargando productos...</p>
+            : <p>Cargando modelos...</p>
         }
     </div>
     )
